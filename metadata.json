@@ -1,0 +1,6 @@
+{
+  "name": "Google Flow Video Studio - 4s Scene Automation",
+  "description": "Complete automated video production workflow for Google Flow. Generates 4-second timed image prompts, animation prompts, and multilingual voiceover scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
